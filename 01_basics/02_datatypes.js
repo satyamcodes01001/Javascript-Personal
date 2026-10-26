@@ -17,7 +17,8 @@ let isLoggedIn=false
 // undefined => value is not defined 
 // symbol => for uniqueness
 
-// Object 
+// Reference (Non-Primitive)
+// Array, Object, Functions
 
 console.log(typeof "Satyam");
 console.log(typeof age);
